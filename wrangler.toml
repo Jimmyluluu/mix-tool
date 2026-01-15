@@ -1,7 +1,0 @@
-name = "jia-bun"
-compatibility_date = "2026-01-09"
-
-[assets]
-directory = "./dist"
-binding = "ASSETS"
-not_found_handling = "single-page-application"
